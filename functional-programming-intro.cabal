@@ -32,6 +32,7 @@ library
       LogWriter
       Reader
       Sample
+      StackState
       Tarai
       ToInt
   other-modules:
