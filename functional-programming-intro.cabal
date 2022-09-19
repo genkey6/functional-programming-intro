@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       BoolLike
+      ConverterWriter
       Lazy
       Lib
       LogWriter
