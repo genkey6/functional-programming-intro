@@ -28,6 +28,7 @@ library
       BoolLike
       Lazy
       Lib
+      Reader
       Sample
       Tarai
       ToInt
