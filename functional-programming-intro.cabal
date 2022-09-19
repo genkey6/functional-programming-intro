@@ -27,6 +27,7 @@ library
   exposed-modules:
       Lib
       Sample
+      Tarai
   other-modules:
       Paths_functional_programming_intro
   hs-source-dirs:
