@@ -30,6 +30,7 @@ library
       Lib
       Sample
       Tarai
+      ToInt
   other-modules:
       Paths_functional_programming_intro
   hs-source-dirs:
