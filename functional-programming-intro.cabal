@@ -28,6 +28,7 @@ library
       BoolLike
       Lazy
       Lib
+      LogWriter
       Reader
       Sample
       Tarai
