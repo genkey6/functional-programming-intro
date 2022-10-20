@@ -27,6 +27,7 @@ library
   exposed-modules:
       BoolLike
       ConverterWriter
+      DoctestSample
       Lazy
       Lib
       LogWriter
